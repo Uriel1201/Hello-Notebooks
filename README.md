@@ -1,3 +1,3 @@
 # Hello-Notebooks
 
-<img src="https://raw.githubusercontent.com/Uriel1201/data-repository/refs/heads/main/images/logo-wide-lightbg.svg" alt="Hello Java" width="100">
+<img src="https://raw.githubusercontent.com/Uriel1201/data-repository/refs/heads/main/images/logo-wide-lightbg.svg" alt="Hello Java" width="120">
